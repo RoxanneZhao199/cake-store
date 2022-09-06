@@ -70,8 +70,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #363062;
+    background-color: #4D4C7D;
     color: white;
+    opacity: .6;
   }
 
   .headerContainer h1 {
